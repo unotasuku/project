@@ -29,7 +29,7 @@
 
 企業。とろみや補助栄養がメイン。レシピが色々と上がってる。
 
-(https://als-station.jp/index.html)　
+(https://als-station.jp/index.html)
 
 神経難病についての嚥下レシピを上げている。神経難病の嚥下動態についても動画を上げてくれている。
 
@@ -37,7 +37,7 @@
 
 大阪ガス。意外なところの意外なサイト。減塩食や嚥下食についてのレシピがある。
 
-(https://www.kewpie.co.jp/udfood/)　
+(https://www.kewpie.co.jp/udfood/)
 
 キューピーのサイト。大手なのでサンプルは手に入れやすい。
 
