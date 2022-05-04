@@ -68,65 +68,65 @@
 
 嚥下食は扱っているが、飲み物の方は弱い。
 
-(https://hanzoya.co.jp/restaurant/concept/index.html)　
+<https://hanzoya.co.jp/restaurant/concept/index.html>　
 
 高級ラインではこのレストランがおそらく出色。
 
-(https://etenpo.net/3630)　
+<https://etenpo.net/3630>
 
 上記サイトのお店の紹介。
 
-(https://chojumikata.com/coverstory/628/essay)　
+<https://chojumikata.com/coverstory/628/essay>
 
 介護全般を扱っているが、この人は気になる。ちなみに少なくとも美味しそうではない。
 
-(https://ideanews.jp/archives/77187)　
+<https://ideanews.jp/archives/77187>
 
 お店の紹介。
-(http://maisondetaka.jp)　
+<http://maisondetaka.jp>　
 
 レストラン　
-(https://kuramarche.com)　
+<https://kuramarche.com>　
 
 通販。なぜかお酒は上がらない。
 
-(https://www.aoicorp.co.jp/lp/?gclid=EAIaIQobChMIoO3at4yg9wIVEbeWCh2NOQk1EAMYASAAEgKUwvD_BwE)　
+<https://www.aoicorp.co.jp/lp/?gclid=EAIaIQobChMIoO3at4yg9wIVEbeWCh2NOQk1EAMYASAAEgKUwvD_BwE>
 
 ムース食の通販。見事なまでに・・・
 
-(https://engesyoku.jp)　
+<https://engesyoku.jp>
 
 嚥下食レストランの紹介サイト。網羅しているかは不明。
 
-(https://houmonshika.net/recipe/)　
+<https://houmonshika.net/recipe/>　
 
 訪問歯科関連からの嚥下食のレシピ。当然お酒はない。
 
 終末期医療関連
-(https://www.asian-eolc-ethics.com)　
+<https://www.asian-eolc-ethics.com>　
 
 文献
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/classification2013-manual.pdf)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/classification2013-manual.pdf>
 
 嚥下食学会規準2013　変遷をたどる上で必須。
 
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/classification2021-manual.pdf?0917)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/classification2021-manual.pdf?0917>
 
 嚥下食学会規準2021　必須。
 
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2019-announce.pdf)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2019-announce.pdf>　
 
 摂食・嚥下の評価方法
 
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2015-announce.pdf)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2015-announce.pdf>　
 
 簡易的な評価方法
 
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2019-A4entire.pdf)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/assessment2019-A4entire.pdf>　
 
 学会作成の評価シート　
 
-(https://www.jsdr.or.jp/wp-content/uploads/file/doc/18-1-p55-89.pdf)　
+<https://www.jsdr.or.jp/wp-content/uploads/file/doc/18-1-p55-89.pdf>
 
 摂食・嚥下訓練方法
 　
