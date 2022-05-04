@@ -21,19 +21,19 @@
 サーベイランス
 嚥下食関連サイト
 
-https://www.engesyoku.com/index.html
+(https://www.engesyoku.com/index.html)
 
 おそらくこの手の試みの最大手。HPのデザインもお金かけている。場所的にも藤島Drの近くなので、妥当。
 
-https://www.nutri.co.jp/index.html
+(https://www.nutri.co.jp/index.html)
 
 企業。とろみや補助栄養がメイン。レシピが色々と上がってる。
 
-https://als-station.jp/index.html　
+(https://als-station.jp/index.html)　
 
 神経難病についての嚥下レシピを上げている。神経難病の嚥下動態についても動画を上げてくれている。
 
-https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/　
+(https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/)　
 
 大阪ガス。意外なところの意外なサイト。減塩食や嚥下食についてのレシピがある。
 
