@@ -102,6 +102,25 @@
 
 訪問歯科関連からの嚥下食のレシピ。当然お酒はない。
 
+<https://www.tosei-corporation.co.jp/product-pack/>
+　
+真空包装の会社。
+
+<https://www.jcka.or.jp/product/index.html>
+　
+嚥下食の機械の会社。
+
+<https://treha.jp/faq/#title10>
+
+トレハを使った会社。
+
+<https://www.care-show.com/medicarefoods/>
+
+嚥下食の展覧会。おそらく国内最大。
+
+<https://www.healthynetwork.co.jp>
+<
+嚥下食の展覧会。おそらく国内最大。
 終末期医療関連
 <https://www.asian-eolc-ethics.com>　
 
