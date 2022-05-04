@@ -36,35 +36,35 @@
 
 おそらくこの手の試みの最大手。HPのデザインもお金かけている。場所的にも藤島Drの近くなので、妥当。
 
-(https://www.nutri.co.jp/index.html)
+<https://www.nutri.co.jp/index.html>
 
 企業。とろみや補助栄養がメイン。レシピが色々と上がってる。
 
-(https://als-station.jp/index.html)
+<https://als-station.jp/index.html>
 
 神経難病についての嚥下レシピを上げている。神経難病の嚥下動態についても動画を上げてくれている。
 
-(https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/) 
+<https://ene.osakagas.co.jp/product/kitchen/suchikon-recipe/>
 
 大阪ガス。意外なところの意外なサイト。減塩食や嚥下食についてのレシピがある。
 
-(https://www.kewpie.co.jp/udfood/)
+<https://www.kewpie.co.jp/udfood/>
 
 キューピーのサイト。大手なのでサンプルは手に入れやすい。
 
-(https://www.watami-takushoku.co.jp/contents/b2b_lp?utm_source=google&utm_medium=cpc&utm_campaign=b2b_d01_16&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VtnfbKAQeWvYU8pPKLFnMCuoK7TWHX7LapTpaUfar08PMlCA9aEC_waArOJEALw_wcB)
+<https://www.watami-takushoku.co.jp/contents/b2b_lp?utm_source=google&utm_medium=cpc&utm_campaign=b2b_d01_16&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VtnfbKAQeWvYU8pPKLFnMCuoK7TWHX7LapTpaUfar08PMlCA9aEC_waArOJEALw_wcB>
 
 当たり前だが、居酒屋もこういう方向は探っている。
 
-(https://nestle.jp/nutrition/product/isocal/knowledge/#carefood)
+<https://nestle.jp/nutrition/product/isocal/knowledge/#carefood>
 
 大手のネスレ。商品もあるが、お酒はない。
 
-(https://medifoods.jp/yawaraka/)　
+<https://medifoods.jp/yawaraka/>　
 
 メディカルフーズを謳うくらいなので糖尿や嚥下障害etc.の 条件に合わせたメニューが上がっている。
 
-(https://conoiro.jp)　
+<https://conoiro.jp>　
 
 嚥下食は扱っているが、飲み物の方は弱い。
 
