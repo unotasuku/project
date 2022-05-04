@@ -32,7 +32,7 @@
 サーベイランス
 嚥下食関連サイト
 
-(https://www.engesyoku.com/index.html)
+<https://www.engesyoku.com/index.html>
 
 おそらくこの手の試みの最大手。HPのデザインもお金かけている。場所的にも藤島Drの近くなので、妥当。
 
