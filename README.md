@@ -118,13 +118,19 @@
 
 嚥下食の展覧会。おそらく国内最大。
 
-<https://www.healthynetwork.co.jp>　
-
-嚥下食の展覧会。おそらく国内最大。
-
-<https://www.healthynetwork.co.jp>
+<https://www.healthynetwork.co.jp>　　
 
 嚥下食のメーカー。
+
+<https://shop.benesse-palette.co.jp/?utm_source=google&utm_medium=cpc&utm_campaign=general&gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9Vtvnn-n69O7anQrZ7cj9mRi48RztJPJBDiRN9T4hcPrn-0U2rcb6bMaAs9OEALw_wcB>
+
+ベネッセ。
+
+<https://healthy-food-navi.jp>
+栄養指導のサイト。学会分類の解説なども上がっている。
+
+<https://www.asahi-gf.co.jp/special/senior/foods/>
+アサヒの介護食
 
 終末期医療関連
 <https://www.asian-eolc-ethics.com>　
