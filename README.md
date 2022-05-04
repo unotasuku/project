@@ -118,9 +118,14 @@
 
 嚥下食の展覧会。おそらく国内最大。
 
-<https://www.healthynetwork.co.jp>
-<
+<https://www.healthynetwork.co.jp>　
+
 嚥下食の展覧会。おそらく国内最大。
+
+<https://www.healthynetwork.co.jp>
+
+嚥下食のメーカー。
+
 終末期医療関連
 <https://www.asian-eolc-ethics.com>　
 
