@@ -457,6 +457,13 @@ abst:わが国では超高齢社会を迎え、脳卒中の後遺症などによ
 
 遠藤彩華, 高橋史夫, 小野寺良二, & 宍戸道明. (2021). 嚥下食の定量化へ向けた簡易粘性評価法による粘稠液状食品のレオロジー評価. 科学・技術研究= Studies in science and technology, 10(1), 31-36.
 <http://www.union-services.com/sst/sst%20data/10_31.pdf>
+
+山村健介. (2013). 摂食・嚥下の基礎. 化学と生物, 51(5), 302-309.
+
+<https://www.jstage.jst.go.jp/article/kagakutoseibutsu/51/5/51_302/_pdf>
+
+佐藤友美, & 山田奈津美. (2014). 嚥下食の物性. IRYO, 68(6), 311-315.
+<https://iryogakkai.jp/2014-68-06/311-5.pdf>
  
 大越ひろ, 嚥下調整食の歴史と進歩 (特集 知っておきたい!摂食・嚥下評価と治療の進歩), Monthly book medical rehabilitation (167) 57-62, 2014
 
