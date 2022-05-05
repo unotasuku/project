@@ -30,7 +30,28 @@
 メンバー探し:藤井さん(Craftroom)、中川さん(Bar Augsuta)、長門さん(倫理学)、自分だけでなくて1年目にリサーチの練習としてさせてみる。
 
 サーベイランス
-嚥下食関連サイト
+医療資源に関するサイト
+
+<https://www.swallowing.link>
+
+学会・社団法人・NPO等
+
+<https://www.jsdr.or.jp>
+
+業界最大手。とりあえず色々と情報がある。
+
+<https://ktsm.jimdofree.com>　
+
+かなり包括的に諸々の関係がサーベイされている　
+
+<https://fc-science.or.jp/index.html>
+
+色々と立ち上げているみたいだけどどうなるか。
+
+<https://chobo-care.comhttps://chobo-care.com>
+栄養士さん主体っぽい。
+
+嚥下食・介護食関連サイト
 
 <https://www.engesyoku.com/index.html>
 
@@ -129,8 +150,44 @@
 <https://healthy-food-navi.jp>
 栄養指導のサイト。学会分類の解説なども上がっている。
 
-<https://www.asahi-gf.co.jp/special/senior/foods/>
+<https://www.asahi-gf.co.jp/special/senior/foods/>　
+
 アサヒの介護食
+
+<https://www.clinico.co.jp>
+
+森永の介護食・嚥下食のサイト用途別にまとめられている。
+
+<https://www.food-care.co.jp>
+
+治療用を謳うくらいなので、その手のがメインっぽい。用途に合わせて商品開発をしている。
+
+<https://www.otsukakj.jp/healthcare/medicalfoods/>
+
+大塚製薬のサイト。主だったものは、ゼリーと経管栄養のもの。
+
+<https://www.nisshin-oillio.com/wellness/medical/product/>
+
+日清食品のグループ。製品のカタログもある。<https://www.nisshin-oillio.com/products/fbook/wellness/html5.html#page=1>
+　
+<https://www.medicare.maruha-nichiro.co.jp>
+
+クックパッドでレシピを公開したり、在宅や病院や施設で合わせた食事を提案している。
+
+<https://www.matsutani.co.jp/product/>
+
+デンプンづくりのメーカー。とろみ関係では情報が取れる。
+
+<https://www.sunus.co.jp>
+
+デンプンや水飴なんかのメーカー。
+
+<https://www.08m.co.jp/health/>
+だしメーカー。口説くと面白いことありそう。
+
+<https://healthcareinfo.kissei.co.jp
+
+メーカー。色々と介護食関連専門でやっている。
 
 終末期医療関連
 <https://www.asian-eolc-ethics.com>　
