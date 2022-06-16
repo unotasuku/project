@@ -244,11 +244,13 @@
 
 抄録: The review and improvement of dysphagia patient's diet is effective in prevent aspiration pneumonia onset. However, it is qualitative to add a thickener to the liquid foods in the sites of medical and nursing care, based on the subjectivity and experience of dietitians. Thus, a simple measuring machine that quantitatively evaluates the viscous liquid foods was developed. The obtained value is defined as "Thickness Resistance Value (TRV)" and treated as a unit unique to this machine. However, the relationship between TRV and viscosity has not been clarified yet. In this study, this relationship was clarified by using standard liquids for calibrating viscometers and drinking water with thickener added. As a result, the coefficient of variation of TRV was 4% or less when standard liquids for calibrating viscometers was measured. In addition, TRV and viscosity on drinking water with thickener added showed a strong positive correlation. Thus, by introducing the machine to the sites of medical and nursing care, it will be possible to quantitatively evaluate the viscosity of drinking water with thickener added. Therefore, it is expected to improve the quality of life of people with dysphagia and lighten the burden of nursing care.　
 
+C。カクテル作った際に測定器が欲しいということは分かったけど、その測定器自体についての知識は少なくとも不要。
+
 嚥下調整食の地域連携「とよた嚥下食の○（輪）」 8年間の成果と今後の展望<http://www.nuas.ac.jp/IHN/report/pdf/12/04.pdf>
 
 抄録:高齢患者は病院と高齢者施設の間（以下、施設間）で入退院を繰り返すケースが多いため、食の連携は重要である。地域内で同レベルの嚥下調整食の提供を目的に、2011年から愛知県豊田市で実施している嚥下調整食の地域連携「とよた嚥下食の◯（輪）」の8 年間の活動を報告する。2011～2013年は、世話人病院の嚥下調整食の試食会を繰り返し、施設ごとの特徴や基準の違いを把握した。2013年には各施設の嚥下調整食の基準が横並びでわかる「食事形態早見表」を作成した。2014～2016年は、近隣施設の管理栄養士を対象に情報交換会を実施することで、地域全体の嚥下調整食の実態を把握することができた。2017～2019年は、施設だけではなく在宅医療に携わる多職種に対して、摂食嚥下の知識向上につながる研修会を開催した。毎年更新してきた食事形態早見表2019年版は23施設の情報を掲載するようになり、連携ツールとして使用されている。今後は、地域包括ケアシステムにおいて管理栄養士が地域住民の食と栄養を担う存在であるよう、医師会、行政、栄養士会と連携して、管理栄養士の窓口を明確にしていきたい。
 
-管理栄養士たちの情報共有の変遷と早見表を導入したことの効果。当座はいらない。広めていくときにどうするかで考えていく必要あり。おいしさとかではない。というかデータ的には1年以内に戻ってくるケースが圧倒的に多いことを踏まえてどう評価していくのか大事だと思う。
+C。管理栄養士たちの情報共有の変遷と早見表を導入したことの効果。当座はいらない。広めていくときにどうするかで考えていく必要あり。おいしさとかではない。というかデータ的には1年以内に戻ってくるケースが圧倒的に多いことを踏まえてどう評価していくのか大事だと思う。
 
 特別養護老人ホームの給食提供の改善に市販のユニバーサルデザインフードを用いた取り組み<https://wayo.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=1950&item_no=1&page_id=35&block_id=44>
 
@@ -259,6 +261,8 @@ B。評価基準に何を使うかは参考になるけど、舌圧やらディ�
 
 嚥下調整食の選び方(3)市販食品の選び方 : 食品編　栢下 淳, 山縣 誉志江 総合リハビリテーション 47 (11), 1093-1101, 2019-11　
 
+？
+
 芦田（吉田） かなえ, 幸谷 かおり, 梅本 貴之, 高アミロース米の米粉から調製したゲルの物性, 日本食品科学工学会誌, 2019, 66 巻, 8 号, p. 290-298, 公開日 2019/09/12, Online ISSN 1881-6681, Print ISSN 1341-027X, <https://doi.org/10.3136/nskkk.66.290>, <https://www.jstage.jst.go.jp/article/nskkk/66/8/66_290/_article/-char/ja>, 
 
 抄録:
@@ -267,6 +271,8 @@ B。評価基準に何を使うかは参考になるけど、舌圧やらディ�
  （3）飲み込みやすいと示唆された10倍加水ゲルの物性値は，見かけのアミロース含有率およびコンカナバリンA法によるアミロース含有率と有意な相関関係を示した．
  （4）10倍加水もしくは15倍加水により調製した高アミロース米粉ゲルは3日間冷蔵保存しても物性の変化が少なく離水も認められなかった．
  以上のことから，高アミロース米の米粉ゲルが嚥下食として利用できることが期待される結果が得られた．
+ 
+ 
 
  海陸, 留美, 東保, 美香, 小野, 章史, 別府温泉の炭酸水素塩泉を用いた介護食「温泉介護食」の開発とレシピの物性評価,  別府大学短期大学部紀要 38 1-8, 2019-02
 前報の研究結果をもとに、別府温泉の炭酸水素塩泉が持つ煮熟軟化効果を用いて、噛む 力、飲み込む力に軽度の障害がある方を対象にした「温泉介護食」を開発し、レシピ集『別 府の温泉水でつくるやわらか介護食（根菜・葉物野菜編）』を作成した。掲載した料理 の介護食としての適否を確認するため、全料理２４品の物性評価を行い「かたさ」「付着性」 「凝集性」について検討した。その結果、約４割の料理が基準（嚥下食ピラミッドL４の 物性基準）の範囲内、残りの約６割が範囲外となった。範囲外となった料理について、食 材の切り方、温泉水で下ゆでする時間、加熱調理時間等の変更を行い、物性が基準の範囲 内となるようにレシピを改良した。介護食作成にあたり、作成者の主観でやわらかさ等の 物性を判断することは困難であり、物性評価等の客観的データを求めることの重要性が示 唆された。
