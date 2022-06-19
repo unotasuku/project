@@ -55,7 +55,7 @@
 
 <https://www.nutri.co.jp/index.html>
 
-企業。とろみや補助栄養がメイン。レシピが色々と上がってる。
+企業。とろみや補助栄養がメイン。レシピが色々と上がってる。https://www.nutri.co.jp/nutrition/keywords/index.html　は栄養について基礎知識がある。
 
 <https://als-station.jp/index.html>
 
