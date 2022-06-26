@@ -245,6 +245,7 @@
 
 村本和世. (2016). 味とにおいの奏でる食のハーモニー (味わいの脳科学). 日本顎口腔機能学会雑誌, 23(1), 1-9.
 <https://www.jstage.jst.go.jp/article/sgf/23/1/23_1/_article/-char/ja/>
+B+思っていた以上に大事。味覚と嗅覚の関係についての研究。まだまだ伸び代ありそうなのでフォローする価値あり。
 
 
 有本 正子, 斎藤 恵子, 井津井 康浩, 食べる楽しみ，味わう喜びへの支援, The Japanese Journal of Rehabilitation Medicine, 2021, 58 巻, 8 号, p. 905-911, 公開日 2021/11/13, Online ISSN 1881-8560, Print ISSN 1881-3526, <https://doi.org/10.2490/jjrmc.58.905>, <https://www.jstage.jst.go.jp/article/jjrmc/58/8/58_58.905/_article/-char/ja>, 
